@@ -15,5 +15,6 @@ namespace Treinando_Enumerações_E_Composição.Entities
         {
             Name = name;
         }
+
     }
 }
