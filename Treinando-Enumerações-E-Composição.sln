@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Treinando-Enumerações-E-Composição", "Treinando-Enumerações-E-Composição\Treinando-Enumerações-E-Composição.csproj", "{C393D7AE-B93B-4390-9CE9-8AA25A607441}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C393D7AE-B93B-4390-9CE9-8AA25A607441}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C393D7AE-B93B-4390-9CE9-8AA25A607441}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C393D7AE-B93B-4390-9CE9-8AA25A607441}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C393D7AE-B93B-4390-9CE9-8AA25A607441}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1B8B3B0-B563-4FD4-A79F-5ACF917636CE}
+	EndGlobalSection
+EndGlobal

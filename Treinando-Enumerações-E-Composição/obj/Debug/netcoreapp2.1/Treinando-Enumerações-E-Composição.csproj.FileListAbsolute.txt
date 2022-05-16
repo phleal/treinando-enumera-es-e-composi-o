@@ -1,0 +1,13 @@
+C:\Users\Trusty boy\source\repos\Treinando-Enumerações-E-Composição\Treinando-Enumerações-E-Composição\bin\Debug\netcoreapp2.1\Treinando-Enumerações-E-Composição.deps.json
+C:\Users\Trusty boy\source\repos\Treinando-Enumerações-E-Composição\Treinando-Enumerações-E-Composição\bin\Debug\netcoreapp2.1\Treinando-Enumerações-E-Composição.runtimeconfig.json
+C:\Users\Trusty boy\source\repos\Treinando-Enumerações-E-Composição\Treinando-Enumerações-E-Composição\bin\Debug\netcoreapp2.1\Treinando-Enumerações-E-Composição.runtimeconfig.dev.json
+C:\Users\Trusty boy\source\repos\Treinando-Enumerações-E-Composição\Treinando-Enumerações-E-Composição\bin\Debug\netcoreapp2.1\Treinando-Enumerações-E-Composição.dll
+C:\Users\Trusty boy\source\repos\Treinando-Enumerações-E-Composição\Treinando-Enumerações-E-Composição\bin\Debug\netcoreapp2.1\Treinando-Enumerações-E-Composição.pdb
+C:\Users\Trusty boy\source\repos\Treinando-Enumerações-E-Composição\Treinando-Enumerações-E-Composição\obj\Debug\netcoreapp2.1\Treinando-Enumerações-E-Composição.csproj.AssemblyReference.cache
+C:\Users\Trusty boy\source\repos\Treinando-Enumerações-E-Composição\Treinando-Enumerações-E-Composição\obj\Debug\netcoreapp2.1\Treinando-Enumerações-E-Composição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trusty boy\source\repos\Treinando-Enumerações-E-Composição\Treinando-Enumerações-E-Composição\obj\Debug\netcoreapp2.1\Treinando-Enumerações-E-Composição.AssemblyInfoInputs.cache
+C:\Users\Trusty boy\source\repos\Treinando-Enumerações-E-Composição\Treinando-Enumerações-E-Composição\obj\Debug\netcoreapp2.1\Treinando-Enumerações-E-Composição.AssemblyInfo.cs
+C:\Users\Trusty boy\source\repos\Treinando-Enumerações-E-Composição\Treinando-Enumerações-E-Composição\obj\Debug\netcoreapp2.1\Treinando-Enumerações-E-Composição.csproj.CoreCompileInputs.cache
+C:\Users\Trusty boy\source\repos\Treinando-Enumerações-E-Composição\Treinando-Enumerações-E-Composição\obj\Debug\netcoreapp2.1\Treinando-Enumerações-E-Composição.dll
+C:\Users\Trusty boy\source\repos\Treinando-Enumerações-E-Composição\Treinando-Enumerações-E-Composição\obj\Debug\netcoreapp2.1\Treinando-Enumerações-E-Composição.pdb
+C:\Users\Trusty boy\source\repos\Treinando-Enumerações-E-Composição\Treinando-Enumerações-E-Composição\obj\Debug\netcoreapp2.1\Treinando-Enumerações-E-Composição.genruntimeconfig.cache
